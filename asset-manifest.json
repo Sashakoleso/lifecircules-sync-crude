@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/lifecircules-sync-crude/static/css/main.07090cd0.chunk.css",
+    "main.js": "/lifecircules-sync-crude/static/js/main.e41df290.chunk.js",
+    "main.js.map": "/lifecircules-sync-crude/static/js/main.e41df290.chunk.js.map",
+    "runtime-main.js": "/lifecircules-sync-crude/static/js/runtime-main.63e1ed4f.js",
+    "runtime-main.js.map": "/lifecircules-sync-crude/static/js/runtime-main.63e1ed4f.js.map",
+    "static/js/2.2426b2f2.chunk.js": "/lifecircules-sync-crude/static/js/2.2426b2f2.chunk.js",
+    "static/js/2.2426b2f2.chunk.js.map": "/lifecircules-sync-crude/static/js/2.2426b2f2.chunk.js.map",
+    "index.html": "/lifecircules-sync-crude/index.html",
+    "precache-manifest.81c0924329333d31408d20e7b3ee913f.js": "/lifecircules-sync-crude/precache-manifest.81c0924329333d31408d20e7b3ee913f.js",
+    "service-worker.js": "/lifecircules-sync-crude/service-worker.js",
+    "static/css/main.07090cd0.chunk.css.map": "/lifecircules-sync-crude/static/css/main.07090cd0.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63e1ed4f.js",
+    "static/js/2.2426b2f2.chunk.js",
+    "static/css/main.07090cd0.chunk.css",
+    "static/js/main.e41df290.chunk.js"
+  ]
+}
